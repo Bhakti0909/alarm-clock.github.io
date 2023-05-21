@@ -5,7 +5,7 @@
 
 ## 🪧Demo
 
-(https://github.com/Bhakti0909/AlarmClock.github.io)
+https://github.com/Bhakti0909/alarm-clock.github.io
 
 
 ## 📐Installation
