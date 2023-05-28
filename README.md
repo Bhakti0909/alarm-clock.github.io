@@ -5,8 +5,7 @@
 
 ## 🪧Demo
 
-https://github.com/Bhakti0909/alarm-clock.github.io
-
+https://bhakti0909.github.io/alarm-clock.github.io/
 
 ## 📐Installation
 Just download the zip and run LIVE_SERVER.
